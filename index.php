@@ -8,7 +8,7 @@
 	<body>
 		<div class="container">
 			<?php
-				print "<h4>PHP is Fun!</h4>";
+				print "<h5>PHP is Fun!</h5>";
 				print "Hello world!!<br>";
 				print "I'm about to learn PHP!";
 			?>
